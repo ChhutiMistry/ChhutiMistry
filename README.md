@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChhutiMistry
-- 👀 I’m interested in @MentalHealth
+- 👀 I’m interested in becoming financially independent
 - 🌱 I’m currently learning FullStackWebDevelopment
 - 💞️ I’m looking to collaborate on remote projects
 - 📫 How to reach me? -> chhuti246@gmail.com
