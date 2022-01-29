@@ -4,6 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-chhuti.mistry-blue)](https://www.facebook.com/chhuti.mistry/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-chhuti__mistry-critical)](https://www.instagram.com/chhuti_mistry/)
 [![Website Badge](https://img.shields.io/badge/Dream-love.chhuti-important)](https://www.instagram.com/love.chhuti/)
+[![Website Badge](https://img.shields.io/badge/Resume%20website-Chhuti%20Mistry-success)](https://chhutimistry.github.io/MyProfile/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-chhuti--mistry-yellowgreen)](https://stackoverflow.com/users/17881804/chhuti-mistry)
 
 I'm
