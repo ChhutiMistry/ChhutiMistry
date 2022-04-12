@@ -7,8 +7,8 @@
 [![Website Badge](https://img.shields.io/badge/Resume%20website-Chhuti%20Mistry-success)](https://chhutimistry.github.io/MyProfile/)
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-chhuti--mistry-yellowgreen)](https://stackoverflow.com/users/17881804/chhuti-mistry)
 
-I'm
-Full Stack Web Developer
+I'm a 
+Full Stack Web Developer.
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technology (NodeJs), front-end development (React, ReactJs, HTML5, CSS3, Javascript), database (MongoDB), ...
 
 Languages and Tools: 
